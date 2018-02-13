@@ -1,0 +1,14 @@
+{
+  "name": "intern_cam",
+  "version": "1.0.0",
+  "scripts": {
+    "aaa": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chokolademilch7/intern_cam.git"
+  },
+  "dependencies": {
+    "mout": "^1.1.0"
+  }
+}
